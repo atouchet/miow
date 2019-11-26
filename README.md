@@ -1,6 +1,6 @@
 # miow
 
-[![Build status](https://ci.appveyor.com/api/projects/status/tc5lsxokjk86949l?svg=true)](https://ci.appveyor.com/project/alexcrichton/miow)
+[![Build status](https://ci.appveyor.com/api/projects/status/tc5lsxokjk86949l?svg=true)](https://ci.appveyor.com/project/yoshuawuyts/miow)
 
 [Documentation](https://docs.rs/miow/0.3/x86_64-pc-windows-msvc/miow/)
 
